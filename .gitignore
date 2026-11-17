@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+*.pdb
+*.obj
+*.exe
+!assets/*.png
+!assets/*.jpg
+.DS_Store
+Thumbs.db

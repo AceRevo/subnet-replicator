@@ -1,0 +1,15 @@
+[package]
+name = "subnet_replicator"
+version = "1.0.0"
+edition = "2021"
+authors = ["Open Source Community"]
+description = "High-Performance Cyberpunk-Themed Project Replicator for USB Drives"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = false
