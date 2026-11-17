@@ -207,7 +207,7 @@ fn print_terminal_banner(host: &str, user: &str, usb: &Path) {
     println!(r#"  ╚════██║██║   ██║██╔══██╗╚════╝██║╚██╗██║██╔══╝     ██║   "#);
     println!(r#"  ███████║╚██████╔╝██████╔╝      ██║ ╚████║███████╗   ██║   "#);
     println!(r#"  ╚══════╝ ╚═════╝ ╚═════╝       ╚═╝  ╚═══╝╚══════╝   ╚═╝   "#);
-    println!("{RESET}{YELLOW}       NEURAL SUB-NET PROJECT REPLICATOR // v1.0{RESET}");
+    println!("{RESET}{YELLOW}       NEURAL SUB-NET PROJECT REPLICATOR // v1.0.1{RESET}");
     println!("{GRAY}----------------------------------------------------------------------{RESET}");
     println!(" {CYAN}[SYSTEM IDENT]{RESET}  NODE_HOST: {WHITE}{host}{RESET} | AGENT_USER: {WHITE}{user}{RESET}");
     println!(" {CYAN}[DATA VAULT ]{RESET}  REMOVABLE VAULT: {GREEN}{}{RESET}", usb.display());

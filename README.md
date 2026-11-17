@@ -58,7 +58,7 @@ Trabajar entre múltiples estaciones de trabajo (computadoras de laboratorio, un
   ╚════██║██║   ██║██╔══██╗╚════╝██║╚██╗██║██╔══╝     ██║   
   ███████║╚██████╔╝██████╔╝      ██║ ╚████║███████╗   ██║   
   ╚══════╝ ╚═════╝ ╚═════╝       ╚═╝  ╚═══╝╚══════╝   ╚═╝   
-       NEURAL SUB-NET PROJECT REPLICATOR // v1.0
+       NEURAL SUB-NET PROJECT REPLICATOR // v1.0.1
 ----------------------------------------------------------------------
  [SYSTEM IDENT]  NODE_HOST: WORKSTATION-01 | AGENT_USER: dev_user
  [DATA VAULT ]  REMOVABLE VAULT: D:\
